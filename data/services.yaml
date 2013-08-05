@@ -101,6 +101,15 @@ bitcoincomes:
   content: |
     <p>Compra y vende Bitcoins con comodidad a traves de transferencia bancaria.</p>
 
+BTCoz
+  label: BTCoz.com
+  icon: /favicon.png
+  location: [au]
+  countries: [au]
+  url: https://www.btcoz.com
+  content: |
+      <p>Buy & Sell Bitcoins @ a low 5.4% - With No Signup Required!
+
 spendbitcoins:
   label: SpendBitcoins.com
   icon: https://www.spendbitcoins.com/media/css/images/favicon.ico
